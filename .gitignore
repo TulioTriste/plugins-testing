@@ -1,2 +1,8 @@
 
 *.gz
+
+*.log
+
+*.dat
+
+world/stats/
