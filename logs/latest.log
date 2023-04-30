@@ -1,94 +1,62 @@
-[02:17:10] [Server thread/INFO]: Starting minecraft server version 1.8.8
-[02:17:10] [Server thread/INFO]: Loading properties
-[02:17:10] [Server thread/INFO]: Default game type: SURVIVAL
-[02:17:10] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-db6de12-18fbb24 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
-[02:17:10] [Server thread/INFO]: Debug logging is disabled
-[02:17:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[02:17:10] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:17:10] [Server thread/INFO]: Generating keypair
-[02:17:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:17:11] [Server thread/INFO]: Using default channel type
-[02:17:11] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[02:17:11] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.9;caf0ad9
-[02:17:11] [Server thread/INFO]: [BalloonSystem] Loading BalloonSystem v1.0
-[02:17:11] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[02:17:11] [Server thread/INFO]: Preparing level "world"
-[02:17:11] [Server thread/INFO]: -------- World Settings For [world] --------
-[02:17:11] [Server thread/INFO]: Item Despawn Rate: 6000
-[02:17:11] [Server thread/INFO]: Item Merge Radius: 2.5
-[02:17:11] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[02:17:11] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[02:17:11] [Server thread/INFO]: View Distance: 10
-[02:17:11] [Server thread/INFO]: Chunks to Grow per Tick: 650
-[02:17:11] [Server thread/INFO]: Clear tick list: false
-[02:17:11] [Server thread/INFO]: Experience Merge Radius: 3.0
-[02:17:11] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[02:17:11] [Server thread/INFO]: Max Entity Collisions: 8
-[02:17:11] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[02:17:11] [Server thread/INFO]: Anti X-Ray: true
-[02:17:11] [Server thread/INFO]: 	Engine Mode: 1
-[02:17:11] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
-[02:17:11] [Server thread/INFO]: 	Replace Blocks: [1, 5]
-[02:17:11] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[02:17:11] [Server thread/INFO]: Random Lighting Updates: false
-[02:17:11] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[02:17:11] [Server thread/INFO]: Structure Info Saving: true
-[02:17:11] [Server thread/INFO]: Mob Spawn Range: 6
-[02:17:11] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[02:17:11] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[02:17:11] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[02:17:11] [Server thread/INFO]: Cane Growth Modifier: 100%
-[02:17:11] [Server thread/INFO]: Melon Growth Modifier: 100%
-[02:17:11] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[02:17:11] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[02:17:11] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[02:17:11] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[02:17:11] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[02:17:11] [Server thread/INFO]: Sending up to 5 chunks per packet
-[02:17:11] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[02:17:11] [Server thread/INFO]: Max TNT Explosions: 100
-[02:17:11] [Server thread/INFO]: Preparing start region for level 0 (Seed: -4026398145808474078)
-[02:17:12] [Server thread/WARN]: Wrong location for EntitySlime['Slime'/195, l='world', x=0,00, y=0,00, z=0,00] in world 'world'!
-[02:17:12] [Server thread/WARN]: Entity is at 0.0,0.0 (chunk 0,0) but was stored in chunk 11,14
-[02:17:12] [Server thread/WARN]: Wrong location for EntityBat['Bat'/196, l='world', x=0,00, y=0,00, z=0,00] in world 'world'!
-[02:17:12] [Server thread/WARN]: Entity is at 0.0,0.0 (chunk 0,0) but was stored in chunk 11,14
-[02:17:12] [Server thread/WARN]: Wrong location for EntitySlime['Slime'/198, l='world', x=0,00, y=0,00, z=0,00] in world 'world'!
-[02:17:12] [Server thread/WARN]: Entity is at 0.0,0.0 (chunk 0,0) but was stored in chunk 11,14
-[02:17:12] [Server thread/WARN]: Wrong location for EntityBat['Bat'/199, l='world', x=0,00, y=0,00, z=0,00] in world 'world'!
-[02:17:12] [Server thread/WARN]: Entity is at 0.0,0.0 (chunk 0,0) but was stored in chunk 11,14
-[02:17:12] [Server thread/WARN]: Wrong location for EntitySlime['Slime'/202, l='world', x=0,00, y=0,00, z=0,00] in world 'world'!
-[02:17:12] [Server thread/WARN]: Entity is at 0.0,0.0 (chunk 0,0) but was stored in chunk 11,14
-[02:17:12] [Server thread/WARN]: Wrong location for EntityBat['Bat'/203, l='world', x=0,00, y=0,00, z=0,00] in world 'world'!
-[02:17:12] [Server thread/WARN]: Entity is at 0.0,0.0 (chunk 0,0) but was stored in chunk 11,14
-[02:17:12] [Server thread/WARN]: Wrong location for EntitySlime['Slime'/205, l='world', x=0,00, y=0,00, z=0,00] in world 'world'!
-[02:17:12] [Server thread/WARN]: Entity is at 0.0,0.0 (chunk 0,0) but was stored in chunk 11,14
-[02:17:12] [Server thread/WARN]: Wrong location for EntityBat['Bat'/206, l='world', x=0,00, y=0,00, z=0,00] in world 'world'!
-[02:17:12] [Server thread/WARN]: Entity is at 0.0,0.0 (chunk 0,0) but was stored in chunk 11,14
-[02:17:12] [Server thread/WARN]: Wrong location for EntitySlime['Slime'/208, l='world', x=0,00, y=0,00, z=0,00] in world 'world'!
-[02:17:12] [Server thread/WARN]: Entity is at 0.0,0.0 (chunk 0,0) but was stored in chunk 11,14
-[02:17:12] [Server thread/WARN]: Wrong location for EntityBat['Bat'/209, l='world', x=0,00, y=0,00, z=0,00] in world 'world'!
-[02:17:12] [Server thread/WARN]: Entity is at 0.0,0.0 (chunk 0,0) but was stored in chunk 11,14
-[02:17:12] [Server thread/WARN]: Wrong location for EntitySlime['Slime'/211, l='world', x=0,00, y=0,00, z=0,00] in world 'world'!
-[02:17:12] [Server thread/WARN]: Entity is at 0.0,0.0 (chunk 0,0) but was stored in chunk 11,14
-[02:17:12] [Server thread/WARN]: Wrong location for EntitySlime['Slime'/213, l='world', x=0,00, y=0,00, z=0,00] in world 'world'!
-[02:17:12] [Server thread/WARN]: Entity is at 0.0,0.0 (chunk 0,0) but was stored in chunk 11,14
-[02:17:12] [Server thread/WARN]: Wrong location for EntityBat['Bat'/216, l='world', x=0,00, y=0,00, z=0,00] in world 'world'!
-[02:17:12] [Server thread/WARN]: Entity is at 0.0,0.0 (chunk 0,0) but was stored in chunk 11,14
-[02:17:12] [Server thread/WARN]: Wrong location for EntityBat['Bat'/219, l='world', x=0,00, y=0,00, z=0,00] in world 'world'!
-[02:17:12] [Server thread/WARN]: Entity is at 0.0,0.0 (chunk 0,0) but was stored in chunk 11,14
-[02:17:12] [Server thread/WARN]: Wrong location for EntityBat['Bat'/222, l='world', x=0,00, y=0,00, z=0,00] in world 'world'!
-[02:17:12] [Server thread/WARN]: Entity is at 0.0,0.0 (chunk 0,0) but was stored in chunk 11,14
-[02:17:12] [Server thread/WARN]: Wrong location for EntityBat['Bat'/225, l='world', x=0,00, y=0,00, z=0,00] in world 'world'!
-[02:17:12] [Server thread/WARN]: Entity is at 0.0,0.0 (chunk 0,0) but was stored in chunk 11,14
-[02:17:12] [Server thread/WARN]: Wrong location for EntitySlime['Slime'/227, l='world', x=0,00, y=0,00, z=0,00] in world 'world'!
-[02:17:12] [Server thread/WARN]: Entity is at 0.0,0.0 (chunk 0,0) but was stored in chunk 11,14
-[02:17:12] [Server thread/INFO]: Preparing spawn area: 83%
-[02:17:12] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.9;caf0ad9
-[02:17:12] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[02:17:12] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
-[02:17:12] [Server thread/INFO]: [BalloonSystem] Enabling BalloonSystem v1.0
-[02:17:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:17:12] [Server thread/INFO]: Done (1,704s)! For help, type "help" or "?"
-[02:17:15] [User Authenticator #1/INFO]: UUID of player Arjona is d58ef82d-16e9-45e0-b08a-fb73ab62feaf
-[02:17:15] [Server thread/INFO]: Arjona[/127.0.0.1:53712] logged in with entity id 353 at ([world]160.74790551764727, 105.86543978094124, 250.15415637627027)
-[02:17:16] [Server thread/INFO]: Arjona issued server command: /balloon
+[02:38:18] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[02:38:18] [Server thread/INFO]: Loading properties
+[02:38:18] [Server thread/INFO]: Default game type: SURVIVAL
+[02:38:18] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-db6de12-18fbb24 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[02:38:18] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:38:18] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:38:18] [Server thread/INFO]: Debug logging is disabled
+[02:38:18] [Server thread/INFO]: Generating keypair
+[02:38:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:38:18] [Server thread/INFO]: Using default channel type
+[02:38:18] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[02:38:18] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.9;caf0ad9
+[02:38:18] [Server thread/INFO]: [BalloonSystem] Loading BalloonSystem v1.0
+[02:38:18] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[02:38:18] [Server thread/INFO]: Preparing level "world"
+[02:38:18] [Server thread/INFO]: -------- World Settings For [world] --------
+[02:38:18] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[02:38:18] [Server thread/INFO]: Item Despawn Rate: 6000
+[02:38:18] [Server thread/INFO]: Item Merge Radius: 2.5
+[02:38:18] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02:38:18] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[02:38:18] [Server thread/INFO]: View Distance: 10
+[02:38:18] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[02:38:18] [Server thread/INFO]: Clear tick list: false
+[02:38:18] [Server thread/INFO]: Experience Merge Radius: 3.0
+[02:38:18] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[02:38:18] [Server thread/INFO]: Max Entity Collisions: 8
+[02:38:18] [Server thread/INFO]: Mob Spawn Range: 6
+[02:38:18] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[02:38:18] [Server thread/INFO]: Cane Growth Modifier: 100%
+[02:38:18] [Server thread/INFO]: Melon Growth Modifier: 100%
+[02:38:18] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[02:38:18] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[02:38:18] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[02:38:18] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[02:38:18] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[02:38:18] [Server thread/INFO]: Anti X-Ray: true
+[02:38:18] [Server thread/INFO]: 	Engine Mode: 1
+[02:38:18] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[02:38:18] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[02:38:18] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[02:38:18] [Server thread/INFO]: Sending up to 5 chunks per packet
+[02:38:18] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[02:38:18] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[02:38:18] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02:38:18] [Server thread/INFO]: Structure Info Saving: true
+[02:38:18] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[02:38:18] [Server thread/INFO]: Random Lighting Updates: false
+[02:38:18] [Server thread/INFO]: Max TNT Explosions: 100
+[02:38:19] [Server thread/INFO]: Preparing start region for level 0 (Seed: -4026398145808474078)
+[02:38:20] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.9;caf0ad9
+[02:38:20] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[02:38:20] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[02:38:20] [Server thread/INFO]: [BalloonSystem] Enabling BalloonSystem v1.0
+[02:38:20] [Server thread/INFO]: BalloonRunnable created!
+[02:38:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:38:20] [Server thread/INFO]: Done (1,465s)! For help, type "help" or "?"
+[02:38:29] [User Authenticator #1/INFO]: UUID of player Arjona is d58ef82d-16e9-45e0-b08a-fb73ab62feaf
+[02:38:29] [Server thread/INFO]: Arjona[/127.0.0.1:56549] logged in with entity id 366 at ([world]231.94996619376954, 104.75473450831447, 327.8782941773169)
+[02:38:31] [Server thread/INFO]: Arjona issued server command: /balloon
+[03:20:24] [Server thread/INFO]: Arjona lost connection: Disconnected
+[03:20:26] [Server thread/INFO]: Arjona left the game.

@@ -5,4 +5,8 @@
 
 *.dat
 
+world/stats/*
+world/playerdata/*
+
+logs/*
 world/stats/
